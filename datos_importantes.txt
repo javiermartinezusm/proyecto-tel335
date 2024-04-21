@@ -1,0 +1,16 @@
+Canchas:
+- Cantidad máxima de usuarios
+- Ubicacion
+- Hora Cierre
+- Hora Apertura
+
+Partido:
+    -Cancha
+    -Creador (Usuario)
+    -Fecha y hora
+    -Jugadores actuales     
+
+Solicitudes:
+    -Datos (Usuario)
+    -Estado (Pendiente, aprobada, rechazada, retractada, confirmada)
+    -Partido
